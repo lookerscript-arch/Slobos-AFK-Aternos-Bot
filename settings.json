@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "CalubianSMP.aternos.me:12721",
+    "ip": "CalubianSMP.aternos.me",
     "port": 12721,
     "version": "",
     "try-creative": false
