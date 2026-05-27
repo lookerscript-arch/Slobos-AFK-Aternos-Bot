@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "CalubianSMP.aternos.me",
-    "port": 12721,
+    "ip": "Minecraft-OvE5.aternos.me:19411",
+    "port": 19411,
     "version": "",
     "try-creative": false
   },
@@ -31,7 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "tating60 Is the owner of the game??!
+      ",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
